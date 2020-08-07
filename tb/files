@@ -1,0 +1,2 @@
+../rtl/serializer.sv
+./serializer_tb.sv
